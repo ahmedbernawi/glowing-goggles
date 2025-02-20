@@ -12,7 +12,7 @@ This repository contains a unique hover button design created using HTML, CSS, a
 ![Button Screenshot](./hover.button.png)
 
 ## Live URL:
-![Here](https://ahmedbernawi.github.io/glowing-goggles/))
+[Here](https://ahmedbernawi.github.io/glowing-goggles/)
 
 ## 🎨 Features
 - Vibrant gradient background.
