@@ -1,7 +1,7 @@
 # glowing-goggles
 Unique Hover Button Design
 
-This repository contains a unique hover button design created using HTML, CSS, and JavaScript. The button features a modern design with vibrant colors and interactive effects, making it perfect for enhancing your GitHub profile or any web project.
+This repository contains a unique hover button design created using HTML, CSS, and JavaScript. The button features a modern design with vibrant colors and interactive effects, making it perfect for enhancing your web project.
 
 ## 🚀 Technologies Used
 - **HTML**: For the structure of the button.
